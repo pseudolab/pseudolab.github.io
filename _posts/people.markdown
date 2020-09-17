@@ -1,5 +1,6 @@
 ---
-title: "Welcome to Jekyll!"
+layout: post
+title: "Introduce people"
 date: 2020-08-17 00:00:00 -0400
 categories: people
 ---
