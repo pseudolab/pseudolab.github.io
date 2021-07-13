@@ -21,33 +21,40 @@ comments: False
 - **동기부여 (Motivation)**
 함께 성장함을 느끼며, 규칙적인 활동이나 도전적인 목표를 가짐으로써 동기부여를 느낍니다. 또한 가짜연구소는 모두에게 발언의 기회를 주며, 행사와 피드백을 통해 교류함으로 동기부여합니다. 
 - **기여 (Contribution)**
-가짜연구소는 머신러닝 분야에서 기존의 교육기관들의 부족한 점을 채우며, 매우 기초적인 것부터 새롭고 챌린징한 프로젝트를 통해 연구개발 영역을 넓히는데 기여합니다.
-  
+가짜연구소는 머신러닝 분야에서 기존의 교육기관들의 부족한 점을 채우며, 매우 기초적인 것부터 새롭고 챌린징한 프로젝트를 통해 연구개발 영역을 넓히는데 기여합니다.  
+<br/>
+
 
 ## 가짜연구소 Slack 채널
-가짜연구소의 다양한 소식을 들으실 수 있으며, 가끔씩 채용사이트에도 올라오지 않는 고오급 채용 정보들을 얻으실 수 있습니다! 질문방을 active하게 운영중이며, '검색하면 다 나와요'는 지양하고 있습니다! 온라인 모각코, 가짜반상회(기월회) 등의 행사도 진행됩니다. [가짜연구소 Slack 바로가기](https://join.slack.com/t/pseudolab/shared_invite/zt-t8aqyun4-_a5Mc8GMMbsiMbb~7M~Y6A)
-  
+- 가짜연구소의 다양한 소식을 들으실 수 있으며, 가끔씩 채용사이트에도 올라오지 않는 고오급 채용 정보들을 얻으실 수 있습니다!
+- 질문방을 active하게 운영중이며, '검색하면 다 나와요'는 지양하고 있습니다! 온라인 모각코, 가짜반상회(기월회) 등의 행사도 진행됩니다.
+- [가짜연구소 Slack 바로가기](https://join.slack.com/t/pseudolab/shared_invite/zt-t8aqyun4-_a5Mc8GMMbsiMbb~7M~Y6A)  
+<br/>
+
 
 ## 가짜도서관(Archive)
-가짜도서관은 가짜연구소에서 진행된 스터디 자료를 공유하며, 누구나 열람할 수 있습니다.
+- 가짜도서관은 가짜연구소에서 진행된 스터디 자료를 공유하며, 누구나 열람할 수 있습니다.
 - [가짜도서관](https://www.notion.so/Archive-5bc7ea712dca4ad0857fe1e1d40a7a08)
 - [튜토리얼](https://pseudo-lab.github.io/Tutorial-Book/)
 - [Youtube](https://www.youtube.com/channel/UCLxNgQ_Ir6Cuod9mkBBiPEw)
 - [Facebook](https://www.facebook.com/groups/pseudolab/)
-- [Linkedin](https://www.linkedin.com/company/pseudolab/)
-  
+- [Linkedin](https://www.linkedin.com/company/pseudolab/)  
+<br/>
+
 
 ## 행동강령
 - 서로 다름을 인정하고 존중하는 분위기를 지향합니다.
 - 서로 환영하는 분위기를 독려합니다.
 - 행동강령은 가짜연구소가 진행하는 모든 행사 및 스터디의 모든 참가자에게 적용됩니다.  
-행동강령에 따라 가짜연구소는  
+**행동강령에 따라 가짜연구소는**  
 - 참가자의 안전이 침해되거나 존중받지 못하는 상황이 발생했을 때 이를 중재 또는 제재할 수 있습니다.
 - 필요한 경우 행동강령을 위반한 참가자를 추방할 수 있습니다.  
-**신고방법** 메일로 신고해주세요. (대표 연락처 pseudolab.operator@gmail.com)
+**신고방법** 메일로 신고해주세요. (대표 연락처 pseudolab.operator@gmail.com)  
+<br/>
+
 
 ## Sponsorship
 가짜연구소는 **머신러닝 연구 중심** 커뮤니티입니다. 커뮤니티의 모든 구성원들은 금전적 이득 없이 커뮤니티의 활성화를 위해 노력하고 있습니다. 주요 활동으로는 머신러닝 관련 스터디 운영, 크루 운영, Kaggle Days 공식 meetup, PseudoCon 등이 있으며, 활동을 통해 만들어진 자료들은 모두 오픈하고, 공유하고 있습니다. 이러한 활동들이 원활하게 이루어질 수 있도록 운영진을 모집하고 있으며, 형식의 제한을 두지 않고 후원을 모집하고 있습니다.
 
 가짜연구소의 활동에 도움을 주고 싶으신 분들은 언제든지 연락주세요!  
-📩후원문의: pseudolab.operator@gmail.com
+📩후원문의: pseudolab.operator@gmail.com  
