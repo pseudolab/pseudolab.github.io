@@ -14,15 +14,21 @@ email: pseudolab.operator@gmail.com
 
 # Authors
 authors:
+  김찬란:
+    name: 김찬란
+    display_name: 김찬란
+    # avatar: 'assets/images/강민지.png'
+    # email: jaellen000@gmail.com
+    # linkedIn: https://www.linkedin.com/in/mmminji/
+    # github: https://github.com/mmminji
+    description: "가짜연구소 빌더"
   강민지:
     name: 강민지
     display_name: 강민지
     avatar: 'assets/images/강민지.png'
     email: jaellen000@gmail.com
     linkedIn: https://www.linkedin.com/in/mmminji/
-    github: https://github.com/mmminji  
-    # web: https://www.wowthemes.net/donate/
-    # twitter: https://twitter.com/wowthemesnet
+    github: https://github.com/mmminji
     description: "가짜연구소 블로그 제작 / 1,2기 파이토치 튜토리얼 제작팀 러너 / 3기 커뮤니티 빌더"
   # john:
   #   name: John
