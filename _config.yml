@@ -14,22 +14,24 @@ email: pseudolab.operator@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+  Minji:
+    name: 강민지(Minji Kang)
+    display_name: 강민지(Minji Kang)
+    avatar: 'assets/images/강민지.png'
+    email: jaellen000@gmail.com
+    github:  mmminji
+    linkedIn: in/민지-강-358391204
+    # web: https://www.wowthemes.net/donate/
+    # twitter: https://twitter.com/wowthemesnet
+    description: "가짜연구소 블로그 제작 / 1,2기 파이토치 튜토리얼 제작팀 러너 / 3기 커뮤니티 빌더"
+  # john:
+  #   name: John
+  #   display_name: John    
+  #   avatar: 'assets/images/avatar.png'
+  #   email: wowthemesnet@gmail.com
+  #   web: https://www.wowthemes.net
+  #   twitter: https://twitter.com/wowthemesnet
+  #   description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
