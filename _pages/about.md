@@ -1,13 +1,50 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: 가짜연구소를 소개합니다. 
 permalink: /about
-comments: false
-image: assets/images/screenshot.jpg
-imageshadow: true
+comments: False
+# image: assets/images/about.jpg
+# imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+> 👍 가짜연구소는 진짜 연구소는 아니지만 머신러닝 연구를 중심으로 모인 커뮤니티입니다. 회사에서는 못하는 자유롭고 사소한 연구 및 활동을 할 수 있습니다. 비영리적으로 케글 관련한 밋업, 스터디, 코드 공유, 유튜브, 해커톤 및 각종 이벤트를 통해 공유의 가치를 형성하고자 합니다. 
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+> 👍 우리는 믿습니다. 열정을 가진 사람들이 세상을 더 나은 곳으로 변화시킬 수 있다고 말이죠. 오셔서 직접 기여하시고, 동일한 관심 주제를 가진 새로운 사람을 만나는 기회를 통해 선한 영향력과 동기부여가 가득한 사람들과 함께함으로 동기부여 받으세요!
 
+> 👍 가짜연구소는 조직을 위해서 비용을 걷지 않습니다. 그 비용으로 조직의 덩치를 불리거나 저희가 월급을 누리지 않습니다. 금전적 이득이 궁극적인 목적이 아니기 때문에 이로부터 자유로운 활동을 할 수 있으며, 돈이 안되는 사소한, 재밌는, 희생적인 일들을 많이 해오고 있습니다.
+
+## 가짜연구소의 핵심가치
+- 공유 (Share) 
+가짜연구소는 모든 스터디 및 연구개발 자료를 공유하여, 누구나 쉽게 접근할 수 있도록 합니다. 리누스의 토발즈의 재미있고 위대한 공유를 머신러닝 분야에서 하고자 합니다.
+- 동기부여 (Motivation)
+함께 성장함을 느끼며, 규칙적인 활동이나 도전적인 목표를 가짐으로써 동기부여를 느낍니다. 또한 가짜연구소는 모두에게 발언의 기회를 주며, 행사와 피드백을 통해 교류함으로 동기부여합니다. 
+- 기여 (Contribution)
+가짜연구소는 머신러닝 분야에서 기존의 교육기관들의 부족한 점을 채우며, 매우 기초적인 것부터 새롭고 챌린징한 프로젝트를 통해 연구개발 영역을 넓히는데 기여합니다.
+
+## 가짜연구소 Slack 채널
+가짜연구소의 다양한 소식을 들으실 수 있으며, 가끔씩 채용사이트에도 올라오지 않는 고오급 채용 정보들을 얻으실 수 있습니다! 질문방을 active하게 운영중이며, '검색하면 다 나와요'는 지양하고 있습니다! 온라인 모각코, 가짜반상회(기월회) 등의 행사도 진행됩니다.
+[가짜연구소 Slack 바로가기](https://join.slack.com/t/pseudolab/shared_invite/zt-t8aqyun4-_a5Mc8GMMbsiMbb~7M~Y6A)
+
+## 가짜도서관(Archive)
+가짜도서관은 가짜연구소에서 진행된 스터디 자료를 공유하며, 누구나 열람할 수 있습니다.
+- [도서관](https://www.notion.so/Archive-5bc7ea712dca4ad0857fe1e1d40a7a08)
+- [튜토리얼](https://pseudo-lab.github.io/Tutorial-Book/)
+- [Youtube](https://www.youtube.com/channel/UCLxNgQ_Ir6Cuod9mkBBiPEw)
+- [Facebook](https://www.facebook.com/groups/pseudolab/)
+- [Linkedin](https://www.linkedin.com/company/pseudolab/)
+
+## 행동강령
+- 서로 다름을 인정하고 존중하는 분위기를 지향합니다.
+- 서로 환영하는 분위기를 독려합니다.
+- 행동강령은 가짜연구소가 진행하는 모든 행사 및 스터디의 모든 참가자에게 적용됩니다.  
+**행동강령에 따라 가짜연구소는**
+- 참가자의 안전이 침해되거나 존중받지 못하는 상황이 발생했을 때 이를 중재 또는 제재할 수 있습니다.
+- 필요한 경우 행동강령을 위반한 참가자를 추방할 수 있습니다.  
+**신고방법**
+메일로 신고해주세요. (대표 연락처 pseudolab.operator@gmail.com)
+
+## Sponsorship
+가짜연구소는 **`머신러닝 연구 중심`** 커뮤니티입니다. 커뮤니티의 모든 구성원들은 금전적 이득 없이 커뮤니티의 활성화를 위해 노력하고 있습니다. 주요 활동으로는 머신러닝 관련 스터디 운영, 크루 운영, Kaggle Days 공식 meetup, PseudoCon 등이 있으며, 활동을 통해 만들어진 자료들은 모두 오픈하고, 공유하고 있습니다. 이러한 활동들이 원활하게 이루어질 수 있도록 운영진을 모집하고 있으며, 형식의 제한을 두지 않고 후원을 모집하고 있습니다.
+
+가짜연구소의 활동에 도움을 주고 싶으신 분들은 언제든지 연락주세요!
+📩후원문의: pseudolab.operator@gmail.com

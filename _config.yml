@@ -1,7 +1,7 @@
 # Site
 name: "가짜연구소(Pseudo Lab)"
 title: "가짜연구소(Pseudo Lab)"
-description: "가짜연구소는 진짜연구소는 아니지만 머신러닝 연구를 중심으로 모인 커뮤니티입니다."
+description: "가짜연구소(Pseudo Lab)"
 logo: 'assets/images/Pseudo_Lab_logo.png'
 favicon: 'assets/images/Pseudo_Lab_logo.png'
 # baseurl: /jekyll-theme-memoirs
