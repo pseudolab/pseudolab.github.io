@@ -17,12 +17,12 @@ comments: false
 
                 <p class="mt-4 mb-0 small text-center">
 
-                    {% if author[1].web %}
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].web }}"><i class="fa fa-link"></i></a> 
+                    {% if author[1].linkedIn %}
+                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].linkedIn }}"><i class="fa fa-link"></i></a> 
                     {% endif %}
 
-                    {% if author[1].twitter %}
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].twitter }}"><i class="fab fa-twitter"></i></a>
+                    {% if author[1].github %}
+                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].github }}"><i class="fab fa-twitter"></i></a>
                     {% endif %}
 
                     {% if author[1].email %}
