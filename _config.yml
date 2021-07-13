@@ -4,7 +4,7 @@ title: "가짜연구소(Pseudo Lab)"
 description: "가짜연구소는 진짜연구소는 아니지만 머신러닝 연구를 중심으로 모인 커뮤니티입니다."
 logo: 'assets/images/Pseudo_Lab_logo.png'
 favicon: 'assets/images/Pseudo_Lab_logo.png'
-baseurl: /jekyll-theme-memoirs
+# baseurl: /jekyll-theme-memoirs
 # google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
