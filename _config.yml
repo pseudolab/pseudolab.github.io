@@ -29,7 +29,7 @@ authors:
     email: jaellen000@gmail.com
     linkedIn: https://www.linkedin.com/in/mmminji/
     github: https://github.com/mmminji
-    tag: [ 태그1, 태그2 ]
+    tag: "태그1, 태그2"
     description: "설명설명"
   # john:
   #   name: John
