@@ -1,8 +1,8 @@
 # Site
 name: "가짜연구소(Pseudo Lab)"
 title: "가짜연구소(Pseudo Lab)"
-description: "가짜연구소(Pseudo Lab)"
-logo: 'assets/images/about.png'
+description: "우리는 믿습니다. 열정을 가진 사람들이 세상을 더 나은 곳으로 변화시킬 수 있다고 말이죠"
+logo: 'assets/images/Pseudo_Lab_logo.png'
 favicon: 'assets/images/Pseudo_Lab_logo.png'
 # baseurl: /jekyll-theme-memoirs
 # google_analytics: 'UA-xxxxxxxx-1'
