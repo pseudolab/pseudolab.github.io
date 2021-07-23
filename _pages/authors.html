@@ -34,10 +34,7 @@ comments: false
             </div>
             <div class="col-md-9">
                 <h3>{{ author[1].display_name }}</h3>
-                <div>
-                    {% assign sortedTags = author[1].tag | sort %}
-                </div>
-                <p class="d-inline-block mx-1 text-dark">{{ author[1].tag }}</p>
+                <p class="mt-3 mb-0">{{ author[1].tag }}</p>
                 <p class="mt-3 mb-0">{{ author[1].description }}</p>  
             </div>
         </div> 
