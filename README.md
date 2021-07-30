@@ -23,4 +23,4 @@ image: assets/images/그림.jpg
 - `**굵게**`  =  **굵게**
 - `~~취소선~~`  =  ~~취소선~~
 - `<u>밑줄</u>`  = <u>밑줄</u>
-- `![이미지](assets/images/Pseudo_Lab_logo.png){: width="300" height="300"}`  =  ![이미지](assets/images/Pseudo_Lab_logo.png){: width="300" height="300"}
+- `![](assets/images/Pseudo_Lab_logo.png){: width="300" height="300"}`
