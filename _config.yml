@@ -14,15 +14,6 @@ email: pseudolab.operator@gmail.com
 
 # Builder
 authors:
-  김찬란:
-    name: 김찬란
-    display_name: 김찬란
-    avatar: 'assets/images/김찬란.png'
-    email: seriousran@gmail.com
-    linkedIn: https://www.linkedin.com/in/chanran-kim/
-    github: https://github.com/seriousran
-    tag: [1기 신약개발대회, 2기 Kaggle Master가 되기 위한 몸부림, 3기 COVID-19, 3기 4차 산업혁명의 찰스 디킨스]
-    description: "함께 개발자"
   강민지:
     name: 강민지
     display_name: 강민지
@@ -41,6 +32,15 @@ authors:
     github: https://github.com/jsjyk
     tag: [3기 GraphML, 3기 커뮤니티 빌더]
     description: "다양한 경험을 추구하는"
+  김찬란:
+    name: 김찬란
+    display_name: 김찬란
+    avatar: 'assets/images/김찬란.png'
+    email: seriousran@gmail.com
+    linkedIn: https://www.linkedin.com/in/chanran-kim/
+    github: https://github.com/seriousran
+    tag: [1기 신약개발대회, 2기 Kaggle Master가 되기 위한 몸부림, 3기 COVID-19, 3기 4차 산업혁명의 찰스 디킨스]
+    description: "함께 개발자"
   심석보:
     name: 심석보
     display_name: 심석보
@@ -50,6 +50,15 @@ authors:
     # github: 
     tag: [3기 커뮤니티 빌더]
     description: "최선을 다해서!"
+  한수민:
+    name: 한수민
+    display_name: 한수민
+    avatar: 'assets/images/심석보.png'
+    email: eldrkeld@gmail.com
+    # linkedIn: 
+    # github: 
+    tag: [2기 확률론 기초한방울, 3기 GraphML]
+    description: "병아리 연구원"
 
 # Plugins
 plugins:
