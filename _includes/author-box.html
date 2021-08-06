@@ -19,10 +19,18 @@
             <h4 style="display:inline">{{ author.display_name }}</h4>
             <span class="ml-3 mb-2">{{ author.description }}</span>
             <p>
-                <span><a class="text-white bg-dark">{{ author.tag[0] }}</a></span>
-                <span><a class="text-white bg-dark">{{ author.tag[1] }}</a></span>
-                <br/><a class="text-white bg-dark">{{ author.tag[2] }}</a></span>
-                <span><a class="text-white bg-dark">{{ author.tag[3] }}</a></span>
+                {% if author.tag[0] %}
+                <span><a class="px-1 text-black bg-primary">{{ author.tag[0] }}</a></span>
+                {% endif %}
+                {% if author.tag[1] %}
+                <span><a class="px-1 text-black bg-primary">{{ author.tag[1] }}</a></span>
+                {% endif %}
+                {% if author.tag[2] %}
+                <span><a class="px-1 text-black bg-primary">{{ author.tag[2] }}</a></span>
+                {% endif %}
+                {% if author.tag[3] %}
+                <span><a class="px-1 text-black bg-primary">{{ author.tag[3] }}</a></span>
+                {% endif %}
             </p>
             
         </div>
