@@ -29,10 +29,10 @@ authors:
     display_name: 김지연
     avatar: 'assets/images/김지연.png'
     email: rlawldusgus@gmail.com
-    # linkedIn: 
+    linkedIn: https://www.linkedin.com/in/jiyeon-kim-6509a01b6/
     github: https://github.com/jsjyk
-    tag: [3기 GraphML, 3기 커뮤니티 빌더]
-    description: "다양한 경험을 추구하는"
+    tag: [석사막학기, SystemBiology]
+    description: "/ 2-3기 / 다양한 경험을 추구하는"
   김찬란:
     name: 김찬란
     display_name: 김찬란
@@ -40,7 +40,7 @@ authors:
     email: seriousran@gmail.com
     linkedIn: https://www.linkedin.com/in/chanran-kim/
     github: https://github.com/seriousran
-    tag: [Research Engineer @NCSOFT, Global Ambassador @Z by HP & NVIDIA, Master @Kaggle, I love Coffee, I love Tea]
+    tag: [NCSOFT 연구원, HP 글로벌 앰버서더, 디저트 중독]
     description: "/ 1-3기 / 함께 개발자"
   심석보:
     name: 심석보
@@ -48,9 +48,9 @@ authors:
     avatar: 'assets/images/심석보.png'
     email: seokbo96@gmail.com
     # linkedIn: 
-    # github: 
-    tag: [3기 커뮤니티 빌더]
-    description: "최선을 다해서!"
+    github: https://github.com/tonyya21
+    tag: [석박통합생, Systembiology]
+    description: "/ 3기 / 최선을 다하는"
   한수민:
     name: 한수민
     display_name: 한수민
