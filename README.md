@@ -1,6 +1,6 @@
 # 가짜연구소 블로그
 
-[블로그 바로가기](https://pseudo-lab.github.io/)
+[블로그 바로가기](https://pseudolab.github.io/)
 
 ## 블로그 포스트 작성 방법
 - _posts/ 폴더 안에 .md 파일로 작성하시면 됩니다.
