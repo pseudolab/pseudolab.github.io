@@ -117,3 +117,4 @@ analytics:
   google:
     tracking_id          : "G-YNWXZFEMDJ"
     anonymize_ip         : # true, false (default)
+analytics_id: "G-YNWXZFEMDJ"
