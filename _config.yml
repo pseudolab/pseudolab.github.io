@@ -111,10 +111,4 @@ sass:
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 # Analytics
-analytics:
-  provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "G-YNWXZFEMDJ"
-    anonymize_ip         : # true, false (default)
-analytics_id: "G-YNWXZFEMDJ"
+google_analytics_id: UA-185350287-2
