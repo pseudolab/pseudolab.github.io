@@ -290,7 +290,7 @@ img, img:hover {
     .img-thumb {  //아래 post
         object-fit:cover;
         height:240px;
-        width:1fr;
+        width:100%;
         object-position:top;
     }
 }
@@ -310,7 +310,7 @@ img, img:hover {
         .img-thumb {  //첫번째 post
             object-fit:cover;
             height:400px;
-            width:2fr; 
+            width:100%; 
             object-position:top;
         }
     }
@@ -322,7 +322,7 @@ img, img:hover {
         .img-thumb {   //첫번째 옆에 두개post
             object-fit:cover;
             height:160px;
-            width:1fr;
+            width:100%;
             object-position:top;
         }
         .card-title {
