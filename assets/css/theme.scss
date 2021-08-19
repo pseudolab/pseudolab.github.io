@@ -287,10 +287,10 @@ img, img:hover {
         float:right;
         margin-top: 10px;
     }
-    .img-thumb {
+    .img-thumb {  //아래 post
         object-fit:cover;
         height:240px;
-        width:100%;
+        width:310.9px;
         object-position:top;
     }
 }
@@ -307,10 +307,10 @@ img, img:hover {
         .card-title {
             font-size:28px;
         }
-        .img-thumb {
+        .img-thumb {  //첫번째 post
             object-fit:cover;
             height:400px;
-            width:100%;
+            width:651.8px; 
             object-position:top;
         }
     }
@@ -319,10 +319,10 @@ img, img:hover {
         .card-text {
             display:none;
         }
-        .img-thumb {
+        .img-thumb {   //첫번째 옆에 두개post
             object-fit:cover;
             height:160px;
-            width:100%;
+            width:310.9px;
             object-position:top;
         }
         .card-title {
