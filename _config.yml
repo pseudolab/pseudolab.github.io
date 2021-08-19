@@ -6,7 +6,7 @@ sub-description: "우리는 믿습니다. 열정을 가진 사람들이 세상�
 logo: 'assets/images/Pseudo_Lab_logo.png'
 favicon: 'assets/images/Pseudo_Lab_logo.png'
 # baseurl: /jekyll-theme-memoirs
-# google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-185350287-2'
 disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -109,6 +109,3 @@ sass:
   style: compressed
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-# Analytics
-google_analytics_id: UA-185350287-2
