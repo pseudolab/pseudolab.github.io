@@ -12,6 +12,7 @@ disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
 email: pseudolab.operator@gmail.com
+url : "https://pseudolab.github.io/"
 
 # Builder
 authors:
