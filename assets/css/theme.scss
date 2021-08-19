@@ -238,7 +238,7 @@ img, img:hover {
 .blog-grid-item {  
     color: #333;
     padding: 0;
-    display: flex;
+    display: grid;
     align-items:center;
     .author-thumb {
         width:40px;
