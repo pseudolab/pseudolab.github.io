@@ -15,10 +15,12 @@ image: assets/images/3rdPseudoCon.jpg
 
 어떤 활동들이 있었는지 궁금하지 않으신가요? 그럼 바로 **가짜연구소의 축제**로 구경오세요!  
 스터디/크루의 엄청난 결과물들과 경험담들이 기다리고 있습니다. 추가로 인턴 경험기, 소소한 구직 노하우까지~~  
-절대 아무데서도 듣지 못하는 이야기가 많으니 직접 오셔서 소통하세요😄
+절대 아무데서도 듣지 못하는 이야기가 많으니 직접 오셔서 소통하세요😄  
 행사 웹페이지 링크 : https://pseudocon3rd.cargo.site/  
 행사 신청 링크: https://event-us.kr/pseudolab/event/40716  
+
 **바로 내일 가짜연구소 3rd PseudoCon(2021) 지금 당장 신청하세요**  
+
 ![timeline](https://user-images.githubusercontent.com/71136942/146981617-29000c26-c31d-4580-8b90-5919faef8247.jpg)
 
 
