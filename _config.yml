@@ -23,8 +23,17 @@ authors:
     email: jaellen000@gmail.com
     linkedIn: https://www.linkedin.com/in/mmminji/
     github: https://github.com/mmminji
-    tag: [석사 막학기, Computer Vision]
-    description: "/ 1-3기 / 배우고 싶은 Data Scientist"
+    tag: [LG CNS 비전AI사업팀, ]
+    description: "/ 1-4기 / "
+  김소연:
+    name: 김소연
+    display_name: 김소연
+    avatar: 'assets/images/김소연.png'
+    email: kimcando94@gmail.com
+    linkedIn: https://www.linkedin.com/in/soyeon-kim-733107168/
+    github: https://github.com/kimcando
+    tag: [석사졸업, NLP, Federated learning]
+    description: "/ 3-4기 / Think globally, act locally."
   김지연:
     name: 김지연
     display_name: 김지연
