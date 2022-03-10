@@ -51,7 +51,16 @@ authors:
     linkedIn: https://www.linkedin.com/in/chanran-kim/
     github: https://github.com/seriousran
     tag: [NCSOFT 연구원, HP 글로벌 앰버서더, 디저트 중독]
-    description: "/ 1-3기 / 함께 개발자"
+    description: "/ 1-4기 / 함께 개발자"
+  신진수:
+    name: 신진수
+    display_name: 신진수
+    avatar: 'assets/images/신진수.png'
+    email: jsshin2013@gmail.com
+    linkedIn: https://kr.linkedin.com/in/jinsoo-shin-436060162
+    github: https://github.com/jsshin2019
+    tag: [네오플 데이터분석팀, Network Science, 이상탐지]
+    description: "/ 4기 / SHOW ME THE DATA"
   심석보:
     name: 심석보
     display_name: 심석보
