@@ -42,7 +42,7 @@ authors:
     linkedIn: https://www.linkedin.com/in/jiyeon-kim-6509a01b6/
     github: https://github.com/jsjyk
     tag: [석사막학기, SystemBiology]
-    description: "/ 2-3기 / 다양한 경험을 추구하는"
+    description: "/ 2-4기 / 다양한 경험을 추구하는"
   김찬란:
     name: 김찬란
     display_name: 김찬란
@@ -69,7 +69,16 @@ authors:
     # linkedIn: 
     github: https://github.com/tonyya21
     tag: [석박통합생, Systembiology]
-    description: "/ 3기 / 최선을 다하는"
+    description: "/ 3-4기 / 최선을 다하는"
+  이정훈:
+    name: 이정훈
+    display_name: 이정훈
+    avatar: 'assets/images/이정훈.png'
+    email: vhrehfdl@gmail.com
+    linkedIn: https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-00b282129/
+    github: https://github.com/vhrehfdl
+    tag: [인터파크 톡집사 개발팀, NLP, MLOps, Story NLP]
+    description: "/ 3-4기 / Positive mind"
   한수민:
     name: 한수민
     display_name: 한수민
@@ -78,7 +87,7 @@ authors:
     # linkedIn: 
     # github: 
     tag: []
-    description: "/ 1-3기 / 병아리 연구원"
+    description: "/ 1-4기 / 병아리 연구원"
 
 # Plugins
 plugins:
