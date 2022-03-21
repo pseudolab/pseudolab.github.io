@@ -25,7 +25,7 @@ body {
     background: #f4f4f4;
 }
 a {
-    color: darken($secondary, 24%);
+    color: darken($primary, 24%);
 }
 img {
     max-width:100%;
@@ -60,7 +60,7 @@ blockquote {
     font-family: Times New Roman;
     font-style: italic;
     font-size: 20px;
-    color: darken($primary, 24%);
+    background-color: lighten($secondary, 24%);
     position:relative;
     border-left:1px solid $dark;
     margin-left:30px;
