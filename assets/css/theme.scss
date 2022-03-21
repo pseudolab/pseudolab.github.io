@@ -32,7 +32,7 @@ img {
     height:auto;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h6 {
     font-weight:700;
 }
 .site-content {
@@ -56,15 +56,25 @@ h1,h2,h3,h4,h5,h6 {
 .btn {
     min-width: 180px;
 }
-blockquote {
+h5 {    
     font-family: Times New Roman;
     font-style: italic;
     font-size: 20px;
     background-color: lighten($secondary, 40%);
+    padding: 3px;
     position:relative;
-    // border-left:1px solid $dark;
-    // margin-left:30px;
-    // padding-left:15px;
+    cite {
+        font-weight:700;
+    }
+ }
+blockquote {
+    font-family: Times New Roman;
+    font-style: italic;
+    font-size: 20px;
+    position:relative;
+    border-left:1px solid $dark;
+    margin-left:30px;
+    padding-left:15px;
     cite {
         font-weight:700;
     }
