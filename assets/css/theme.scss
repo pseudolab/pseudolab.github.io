@@ -60,6 +60,7 @@ blockquote {
     font-family: Times New Roman;
     font-style: italic;
     font-size: 20px;
+    color: darken($primary, 24%);
     position:relative;
     border-left:1px solid $dark;
     margin-left:30px;
