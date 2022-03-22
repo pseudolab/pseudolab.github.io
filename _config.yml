@@ -83,11 +83,11 @@ authors:
     name: 한수민
     display_name: 한수민
     avatar: 'assets/images/한수민.png'
-    email: eldrkeld@gmail.com
+    email: etckoko@gmail.com
     # linkedIn: 
-    # github: 
-    tag: []
-    description: "/ 1-4기 / 병아리 연구원"
+    # github: https://github.com/suojoah
+    tag: [Graph ML, GNN, Network Analysis]
+    description: "/ 1-4기 / No limits"
 
 # Plugins
 plugins:
