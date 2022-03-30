@@ -2,7 +2,7 @@
 layout: post
 title:  "8월 이벤트 결과발표"
 author: 심석보
-categories: [ 홍보 ]
+categories: [ 이벤트 ]
 image: assets/images/8월_활동왕_결과발표.jpg
 ---
 
