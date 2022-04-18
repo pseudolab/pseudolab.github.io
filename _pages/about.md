@@ -6,7 +6,7 @@ comments: False
 # image: assets/images/about.jpg
 # imageshadow: true
 ---
-[        노션 페이지 바로가기](https://www.pseudo-lab.com) <br/>
+[        노션 페이지 바로가기](https://www.pseudo-lab.com/) <br/>
 [        디스코드 　   바로가기](https://discord.gg/jSkpDeAsW5)
 
 > 👍 가짜연구소는 진짜 연구소는 아니지만 머신러닝 연구를 중심으로 모인 커뮤니티입니다. 회사에서는 못하는 자유롭고 사소한 연구 및 활동을 할 수 있습니다. 비영리적으로 케글 관련한 밋업, 스터디, 코드 공유, 유튜브, 해커톤 및 각종 이벤트를 통해 공유의 가치를 형성하고자 합니다. 
