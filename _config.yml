@@ -19,7 +19,7 @@ authors:
   강민지:
     name: 강민지
     display_name: 강민지
-    avatar: 'assets/images/강민지.png'
+    avatar: 'assets/images/builder-profile/강민지.png'
     email: jaellen000@gmail.com
     linkedIn: https://www.linkedin.com/in/mmminji/
     github: https://github.com/mmminji
@@ -28,7 +28,7 @@ authors:
   김소연:
     name: 김소연
     display_name: 김소연
-    avatar: 'assets/images/김소연.png'
+    avatar: 'assets/images/builder-profile/김소연.png'
     email: kimcando94@gmail.com
     linkedIn: https://www.linkedin.com/in/soyeon-kim-733107168/
     github: https://github.com/kimcando
@@ -37,7 +37,7 @@ authors:
   김지연:
     name: 김지연
     display_name: 김지연
-    avatar: 'assets/images/김지연.png'
+    avatar: 'assets/images/builder-profile/김지연.png'
     email: rlawldusgus@gmail.com
     linkedIn: https://www.linkedin.com/in/jiyeon-kim-6509a01b6/
     github: https://github.com/jsjyk
@@ -46,7 +46,7 @@ authors:
   김찬란:
     name: 김찬란
     display_name: 김찬란
-    avatar: 'assets/images/김찬란.png'
+    avatar: 'assets/images/builder-profile/김찬란.png'
     email: seriousran@gmail.com
     linkedIn: https://www.linkedin.com/in/chanran-kim/
     github: https://github.com/seriousran
@@ -55,7 +55,7 @@ authors:
   신진수:
     name: 신진수
     display_name: 신진수
-    avatar: 'assets/images/신진수.png'
+    avatar: 'assets/images/builder-profile/신진수.png'
     email: jsshin2013@gmail.com
     linkedIn: https://kr.linkedin.com/in/jinsoo-shin-436060162
     github: https://github.com/jsshin2019
@@ -64,7 +64,7 @@ authors:
   심석보:
     name: 심석보
     display_name: 심석보
-    avatar: 'assets/images/심석보.png'
+    avatar: 'assets/images/builder-profile/심석보.png'
     email: seokbo96@gmail.com
     # linkedIn: 
     github: https://github.com/tonyya21
@@ -73,7 +73,7 @@ authors:
   이정훈:
     name: 이정훈
     display_name: 이정훈
-    avatar: 'assets/images/이정훈.png'
+    avatar: 'assets/images/builder-profile/이정훈.png'
     email: vhrehfdl@gmail.com
     linkedIn: https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-00b282129/
     github: https://github.com/vhrehfdl
@@ -82,7 +82,7 @@ authors:
   한수민:
     name: 한수민
     display_name: 한수민
-    avatar: 'assets/images/한수민.png'
+    avatar: 'assets/images/builder-profile/한수민.png'
     email: etckoko@gmail.com
     # linkedIn: 
     # github: https://github.com/suojoah
