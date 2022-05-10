@@ -3,7 +3,7 @@ layout: post
 title:  "8월 이벤트 결과발표"
 author: 심석보
 categories: [ 이벤트 ]
-image: assets/images/8월_활동왕_결과발표.jpg
+image: assets/images/post/winners/210923/8월_활동왕_결과발표.jpg
 ---
 
 안녕하세요. 가짜연구소 입니다.지난 8월 1일 부터 진행된 가짜연구소의 활동왕 이벤트의 당첨자를 발표하려고 합니다.!🎉

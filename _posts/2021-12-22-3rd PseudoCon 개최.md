@@ -3,7 +3,7 @@ layout: post
 title:  "바로 내일 가짜연구소 3rd PseudoCon(2021)"
 author: 강민지
 categories: [ 행사 ]
-image: assets/images/3rdPseudoCon.jpg
+image: assets/images/post/events/211222/3rdPseudoCon.jpg
 ---
 
 안녕하세요 가짜연구소입니다!  
