@@ -70,6 +70,15 @@ authors:
     github: https://github.com/tonyya21
     tag: [석박통합생, Systembiology]
     description: "/ 3-4기 / 최선을 다하는"
+  안성진:
+    name: 안성진
+    display_name: 안성진
+    avatar: 'assets/images/builder-profile/안성진.jpg'
+    # email: 
+    # linkedIn: 
+    github: https://github.com/SDSTony
+    tag: [Microsoft]
+    description: "/ 1-7기 / "
   이정훈:
     name: 이정훈
     display_name: 이정훈
