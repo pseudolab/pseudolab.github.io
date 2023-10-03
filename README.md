@@ -24,3 +24,18 @@ image: assets/images/그림.jpg
 - `~~취소선~~`  =  ~~취소선~~
 - `<u>밑줄</u>`  = <u>밑줄</u>
 - `![](assets/images/Pseudo_Lab_logo.png){: width="300" height="300"}`
+
+### 작성자 추가 방법
+- `_config.yml` 파일 `authors:` 아래에 아래 포맷에 맞춰 작성하시면 됩니다.
+- `assets/images/builder-profile/`에 이미지 파일을 업로드하고, `avatar`에 해당 경로를 추가해주세요.
+```
+ 김찬란:
+    name: 김찬란
+    display_name: 김찬란
+    avatar: 'assets/images/builder-profile/김찬란.png'
+    email: seriousran@gmail.com
+    linkedIn: https://www.linkedin.com/in/chanran-kim/
+    github: https://github.com/seriousran
+    tag: [NCSOFT 연구원, HP 글로벌 앰버서더, 디저트 중독]
+    description: "/ 1-4기 / 함께 개발자"
+```
