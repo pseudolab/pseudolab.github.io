@@ -34,7 +34,7 @@ DataCamp Donates 프로그램에 대해서 조사를 하고 보니, 가짜연구
 
 지원 메일을 보낸 후에는 안내되는 별도의 지원서 작성 후 DataCamp 측 담당자와 화상 회의를 진행 했습니다. 지원서에는 가짜연구소의 소개, 목적, 활동 내용, 구독권을 사용할 인원 수 등을 기재하였습니다. 또한 화상 회의를 통해 가짜연구소의 미션 및 라이센스를 어떻게 활용할 예정인지에 대한 구체적인 계획을 공유드렸습니다. 그 자리에서 바로 승인 확정이 나서 기분이 정말 좋았던 기억이 있습니다. 
 
-![](../assets/images/post/community-story/231003/img05.JPG)
+![](../assets/images/post/community-story/231003/img05.jpg)
 - DataCamp와 파트너쉽 맺은 후 SNS 홍보에 사용된 포스터 
 
 ## 21-22 운영 방식
@@ -61,10 +61,10 @@ DataCamp에는 400개 이상의 강좌가 있어 여러 강좌들을 엮어서 �
 
 DataCamp Donates 프로그램을 지속하기 위해 추적해야 하는 주요 KPI로는 Adoption rate와 Engagement rate이 있었습니다. Adoption rate는 DataCamp 라이센스 이메일을 보냈을 때 수락한 비율을 뜻하며 Engagement rate는 최근 1개월내에 교육을 들은 사용자 수를 바탕으로 산출하는 비율이기 때문에 DataCamp 플랫폼 활용도와 관련된 지표 입니다. 
 
-![](../assets/images/post/community-story/231003/img07.PNG)
+![](../assets/images/post/community-story/231003/img07.png)
 - Adoption rate
 
-![](../assets/images/post/community-story/231003/img08.PNG)
+![](../assets/images/post/community-story/231003/img08.png)
 - Engagement rate 
 
 처음 할당 받은 약 60개의 라이센스를 6개월 정도 운용한 후 DataCamp 담당자와 화상 회의로 만나 진행 현황을 공유드렸습니다. 이 회의에서 담당자가 얘기 하길, 가짜연구소의 Adoption rate 및 Engagement rate가 DataCamp Donates에 참가하는 다른 비영리 단체 뿐만 아니라 DataCamp B2B 프로그램에 참가하는 모든 단체와 비교해도 상대적으로 높은 Adoption rate와 Engagement rate를 보인다고 했습니다. 그에 따라 DataCamp Donates 지원 당시 문의 드렸던 120개의 추가 라이센스를 받아 2022년 상반기에는 약 180개의 라이센스를 운용할 수 있게 되었습니다. 
