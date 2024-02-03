@@ -32,7 +32,7 @@ authors:
     email: kimcando94@gmail.com
     linkedIn: https://www.linkedin.com/in/soyeon-kim-733107168/
     github: https://github.com/kimcando
-    tag: [석사졸업, NLP, Federated learning]
+    tag: [LG AI, NLP, Federated learning]
     description: "/ 3-4기 / Think globally, act locally."
   김지연:
     name: 김지연
@@ -50,8 +50,8 @@ authors:
     email: seriousran@gmail.com
     linkedIn: https://www.linkedin.com/in/chanran-kim/
     github: https://github.com/seriousran
-    tag: [NCSOFT 연구원, HP 글로벌 앰버서더, 디저트 중독]
-    description: "/ 1-4기 / 함께 개발자"
+    tag: [SK텔레콤, HP 글로벌 앰버서더, 디저트 중독]
+    description: "/ 1-8기 / 함께 개발자"
   신진수:
     name: 신진수
     display_name: 신진수
@@ -59,8 +59,8 @@ authors:
     email: jsshin2013@gmail.com
     linkedIn: https://kr.linkedin.com/in/jinsoo-shin-436060162
     github: https://github.com/jsshin2019
-    tag: [네오플 데이터분석팀, Network Science, 이상탐지]
-    description: "/ 4기 / SHOW ME THE DATA"
+    tag: [크래프톤, Network Science, 이상탐지]
+    description: "/ 8기 / SHOW ME THE DATA"
   심석보:
     name: 심석보
     display_name: 심석보
@@ -87,7 +87,7 @@ authors:
     linkedIn: https://www.linkedin.com/in/%EC%A0%95%ED%9B%88-%EC%9D%B4-00b282129/
     github: https://github.com/vhrehfdl
     tag: [인터파크 톡집사 개발팀, NLP, MLOps, Story NLP]
-    description: "/ 3-4기 / Positive mind"
+    description: "/ 3-6기 / Positive mind"
   한수민:
     name: 한수민
     display_name: 한수민
@@ -96,7 +96,7 @@ authors:
     # linkedIn: 
     # github: https://github.com/suojoah
     tag: [Graph ML, GNN, Network Analysis]
-    description: "/ 1-4기 / No limits"
+    description: "/ 1-7기 / No limits"
 
 # Plugins
 plugins:
@@ -125,7 +125,7 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-
+future: true
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
