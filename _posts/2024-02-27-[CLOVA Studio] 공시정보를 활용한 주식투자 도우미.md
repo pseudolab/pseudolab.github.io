@@ -3,7 +3,7 @@ layout: post
 title:  "[CLOVA Studio] 공시정보를 활용한 주식투자 도우미"
 author: 정영상
 categories: [ 8기 아카데미 ]
-image: assets/images/post/8th-builder/videorighter/stock-main2.png
+image: assets/images/post/8th-builder/videorighter/stock-main2.jpg
 ---
 
 안녕하세요~! 😀\
