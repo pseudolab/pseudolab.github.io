@@ -42,9 +42,9 @@ published: false
 최근에는 라벨링 없이 학습이 가능한 Unsupervised/Self-supervised Learning 분야에 대해서 더 깊에 공부하고 있습니다:D
 빠르게 변화하는 분야에 있는 만큼 늘 공부해야 할 것들이 쌓여가지만 혼자서는 도무지 진도를 나가는게 쉽지 않아서(천성이 놀고 뒹굴거리는 것을 좋아해서ㅜㅜ) 가짜연구소에서 스터디를 운영하게 되었습니다.
 지금까지 운영했던 스터디들중 일부 페이지를 소개합니다!!
-[Computer Vision - Part1](https://pseudo-lab.com/chanrankim/Computer-Vision-Part1-c8c9fe2978b34f13b06aad58d33b9ef3)
-[Computer Vision - Part2](https://pseudo-lab.com/chanrankim/Computer-Vision-Part2-6f0ee01150d2468495dfa0511e6faee8)
-[Datacamp Intensive Study - Python Programmer Track](https://pseudo-lab.com/chanrankim/Datacamp-Intensive-Study-Python-Programmer-Track-a73fd61c8f54483dafb1a3d3ebf74454)
+- [Computer Vision - Part1](https://pseudo-lab.com/chanrankim/Computer-Vision-Part1-c8c9fe2978b34f13b06aad58d33b9ef3)
+- [Computer Vision - Part2](https://pseudo-lab.com/chanrankim/Computer-Vision-Part2-6f0ee01150d2468495dfa0511e6faee8)
+- [Datacamp Intensive Study - Python Programmer Track](https://pseudo-lab.com/chanrankim/Datacamp-Intensive-Study-Python-Programmer-Track-a73fd61c8f54483dafb1a3d3ebf74454)
 
 
 ## 프로젝트 계획
