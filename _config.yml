@@ -115,6 +115,73 @@ authors:
     # github: https://github.com/AEInha
     tag: [Undergraduate students]
     description: "/ 1-7기 / 로켓같은 삶"
+  정영상:
+    name: 정영상
+    display_name: 정영상
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""    
+  김도연:
+    name: 김도연
+    display_name: 김도연
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""    
+  민예린:
+    name: 민예린
+    display_name: 민예린
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""    
+  김다운:
+    name: 김다운
+    display_name: 김다운
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""    
+  백승언:
+    name: 백승언
+    display_name: 백승언
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""    
+  지승현:
+    name: 지승현
+    display_name: 지승현
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""    
+  안영훈:
+    name: 안영훈
+    display_name: 안영훈
+    # avatar: 
+    # email: 
+    # linkedIn: 
+    # github: 
+    # tag: []
+    # description: ""        
+
+
+
+    
 # Plugins
 plugins:
   - jekyll-paginate

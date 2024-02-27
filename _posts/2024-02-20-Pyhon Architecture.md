@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "OOO 프로젝트를 통해서 가짜연구소와 함께 성장하기"
-author: 김찬란
+title:  "PyArch - 파이썬에 아키텍처 패턴 적용하기"
+author: 김정훈
 categories: [ 8기 아카데미 ]
 image: assets/images/post/8th-builder/seriousran/ship.png
 ---
