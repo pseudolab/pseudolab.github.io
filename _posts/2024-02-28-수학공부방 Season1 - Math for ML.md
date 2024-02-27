@@ -3,7 +3,7 @@ layout: post
 title:  "수학공부방 Season1 - Math for ML"
 author: 박진호
 categories: [ 8기 아카데미 ]
-image: assets/images/post/8th-builder/seriousran/ship.png
+image: assets/images/post/8th-builder/jinhopark/img1.jpg
 published: false
 ---
 
@@ -15,7 +15,7 @@ published: false
 
 ## 수학공부방 Season1 - Math for ML 스터디 소개
 
-![img](../assets/images/post/8th-builder/jinhopark/img2.png)
+![img](../assets/images/post/8th-builder/jinhopark/img2.jpg)
 이번 스터디에서는 **Mathematics for Machine Learning**(저자 - Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong)이라는 책을 함께 공부하고자 합니다.
 이 책은 크게 두가지 파트로 구성되어 있는데 아래와 같습니다.
 1) 머신러닝 학습에 필요한 다양한 수학이론 (선형대수, 해석기하, 미적분학, 확률통계, 최적화)
@@ -37,7 +37,7 @@ published: false
 
 
 ## 빌더 소개
-![img](../assets/images/post/8th-builder/jinhopark/img3.png)
+![img](../assets/images/post/8th-builder/jinhopark/img3.jpg)
 저는 컴퓨터비전과 인공지능 그리고 자율주행에 대해서 연구를 하고 있는 [박진호](www.linkedin.com/in/jinho-park-9010)입니다.
 최근에는 라벨링 없이 학습이 가능한 Unsupervised/Self-supervised Learning 분야에 대해서 더 깊에 공부하고 있습니다:D
 빠르게 변화하는 분야에 있는 만큼 늘 공부해야 할 것들이 쌓여가지만 혼자서는 도무지 진도를 나가는게 쉽지 않아서(천성이 놀고 뒹굴거리는 것을 좋아해서ㅜㅜ) 가짜연구소에서 스터디를 운영하게 되었습니다.
