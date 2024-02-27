@@ -40,7 +40,7 @@ published: false
 ![img](../assets/images/post/8th-builder/jinhopark/img3.jpg)
 저는 컴퓨터비전과 인공지능 그리고 자율주행에 대해서 연구를 하고 있는 [박진호](www.linkedin.com/in/jinho-park-9010)입니다.
 최근에는 라벨링 없이 학습이 가능한 Unsupervised/Self-supervised Learning 분야에 대해서 더 깊에 공부하고 있습니다:D
-빠르게 변화하는 분야에 있는 만큼 늘 공부해야 할 것들이 쌓여가지만 혼자서는 도무지 진도를 나가는게 쉽지 않아서(천성이 놀고 뒹굴거리는 것을 좋아해서ㅜㅜ) 가짜연구소에서 스터디를 운영하게 되었습니다.
+빠르게 변화하는 분야인 만큼 늘 공부해야 할 것들이 쌓여가지만 혼자서는 도무지 진도를 나가는게 쉽지 않아서(천성이 놀고 뒹굴거리는 것을 좋아해서ㅜㅜ) 가짜연구소에서 스터디를 운영하게 되었습니다.
 지금까지 운영했던 스터디들중 일부 페이지를 소개합니다!!
 - [Computer Vision - Part1](https://pseudo-lab.com/chanrankim/Computer-Vision-Part1-c8c9fe2978b34f13b06aad58d33b9ef3)
 - [Computer Vision - Part2](https://pseudo-lab.com/chanrankim/Computer-Vision-Part2-6f0ee01150d2468495dfa0511e6faee8)
@@ -60,6 +60,7 @@ published: false
 
 주차별 학습 분량은 [계획표](https://www.notion.so/chanrankim/Season1-Math-for-ML-acff3b9250334dd4a51b0f95716a574d)를 참고해주세요!
 우선 제가 임의로 분량을 나눴는데 매주 약 20페이지를 학습한다고 생각하시면 됩니다.
+<br>
 다만, 앞서 설명드렸던 것처럼 매주 분량을 칼같이 지키면서 진도를 나가는것보다는 내용의 완벽한 이해를 더 중요하게 생각하는 스터디라는 점을 꼭 명심해주세요!!!
 
 
