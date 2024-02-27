@@ -106,7 +106,15 @@ authors:
 #    github:
     tag: [ IHFB ]
     description: "/ 8기 / Comeback"
-
+  임진우:
+    name: 임진우
+    display_name: 임진우
+    avatar: 'assets/images/builder-profile/한수민.png'
+    email: jinwooiminha@gmail.com
+    # linkedIn: www.linkedin.com/in/jinwoo-im-589a5a287
+    # github: https://github.com/AEInha
+    tag: [Undergraduate students]
+    description: "/ 1-7기 / 로켓같은 삶"
 # Plugins
 plugins:
   - jekyll-paginate
