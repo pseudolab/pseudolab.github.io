@@ -3,8 +3,7 @@ layout: post
 title: "제로베이스에서 Data Engineer로 거듭나기 with Python 소개"
 author: 김다운
 categories: [8기 아카데미]
-image:![](../assets/images/post/8th-builder/DownyBehind/Data_Engineer.png)
-published: false
+image: assets/images/post/8th-builder/DownyBehind/Data_Engineer.png
 ---
 
 안녕하세요, 저는 "제로베이스에서 Data Engineer로 거듭나기 with Python" 프로젝트를 빌드한 김다운입니다.
