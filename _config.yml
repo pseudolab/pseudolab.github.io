@@ -97,6 +97,15 @@ authors:
     # github: https://github.com/suojoah
     tag: [Graph ML, GNN, Network Analysis]
     description: "/ 1-7기 / No limits"
+  김정훈:
+    name: 김정훈
+    display_name: 김정훈
+    avatar: 'assets/images/builder-profile/김정훈.jpg'
+    email: seriousran@gmail.com
+    linkedIn: https://www.linkedin.com/in/jj150618/
+#    github:
+    tag: [ IHFB ]
+    description: "/ 8기 / Comeback"
   임진우:
     name: 임진우
     display_name: 임진우
