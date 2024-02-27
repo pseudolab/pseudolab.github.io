@@ -7,9 +7,9 @@ image: assets/images/post/8th-builder/jinhopark/img1.jpg
 published: false
 ---
 
-안녕하세요, 저는 수학공부방 Season1 - Math for ML 스터디의 빌더 [박진호](www.linkedin.com/in/jinho-park-9010)입니다!
-저는 그동안 가짜연구소에서 다양한 스터디를 진행해왔습니다. 컴퓨터비전과 금융공학 그리고 DSF와 연계한 Python Developer/Machine Learning Scientist Career track 스터디를 운영해 왔습니다.
-가짜연구소에서 빌더 활동을 시작하면서 생각했던 "한가지에 몰두하기보단 다양한 주제를 가지고 공부해보자"라는 다짐을 지키기 위해서 오늘도 노룍하고 있습니다:D 
+안녕하세요, 저는 수학공부방 Season1 - Math for ML 스터디의 빌더 [박진호](www.linkedin.com/in/jinho-park-9010)입니다!  
+저는 그동안 가짜연구소에서 다양한 스터디를 진행해왔습니다. 컴퓨터비전과 금융공학 그리고 DSF와 연계한 Python Developer/Machine Learning Scientist Career track 스터디를 운영해 왔습니다.  
+가짜연구소에서 빌더 활동을 시작하면서 생각했던 "한가지에 몰두하기보단 다양한 주제를 가지고 공부해보자"라는 다짐을 지키기 위해서 오늘도 노룍하고 있습니다:D   
 이 포스트에서는 2024년 상반기에 진행될 **수학공부방 Season1 - Math for ML** 스터디에 대해서 간단히 소개하려고 합니다.
 
 
