@@ -39,6 +39,24 @@ published: false
 - 스터디를 진행하는 동안 총 3회 (지금 읽고 계신 포스트가 1회) 블로그 포스팅을 통해 기록물을 남길 예정입니다.
 
 ## 주차별 목표
-주차별 목표는 [노션 계획표](https://www.notion.so/chanrankim/Deep-Dive-Into-GNN-8deb729d3b534aaba46362ca5c65c74b?pvs=4)를 통해 확인하실 수 있습니다. 스터디 주차별 계획은 Stanford CS224W 강의 순서와 동일하며, 1개 챕터만 편성된 주차에 대해 논문 리뷰 혹은 과제 코드 분석을 진행해볼 계획입니다. 
+주차별 목표는 [노션 계획표](https://www.notion.so/chanrankim/Deep-Dive-Into-GNN-8deb729d3b534aaba46362ca5c65c74b?pvs=4) 혹은 아래 테이블을 통해 확인하실 수 있습니다. 스터디 주차별 계획은 Stanford CS224W 강의 순서와 동일하며, 1개 챕터만 편성된 주차에 대해 논문 리뷰 혹은 과제 코드 분석을 진행해볼 계획입니다. 
+
+| 주차  | 내용                                |
+|-------|-------------------------------------|
+| 1주차 | OT (스터디 소개 및 방향 논의), Ice Breaking |
+| 2주차 | Introduction, Node Embedding |
+| 3주차 | Graph Neural Network / A general perspective of GNN |
+| 4주차 | GNN augmentation and training |
+| 5주차 | Theory of GNNs |
+| 6주차 | Heterogeneous graphs |
+| 7주차 | Knowledge graphs |
+| 8주차 | 중간 리뷰 타임 - 정모 |
+| 9주차 | Reasoning over knowledge graphs |
+| 10주차| Fast neural subgraph matching |
+| 11주차| GNNs for recommenders |
+| 12주차| Deep generative models for graphs |
+| 13주차| Advanced topics in GNN |
+| 14주차| Graph Transformer / Scaling to large graphs |
+| 15주차| Link Prediction and Causality / Algorithmic reasoning with GNNs |
 
 청강도 가능하기 때문에 가짜연구소의 여러 분들이 종종 스터디에 들어와 발표를 들을 수도 있습니다. 그렇다고 부담을 가지실 필요 없이 자연스럽게 공부했던 내용을 정리해서 같이 논의해보는 그런 시간으로 생각해주시면 좋을 것 같습니다. 
