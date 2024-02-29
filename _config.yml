@@ -177,7 +177,25 @@ authors:
     # linkedIn: 
     # github: 
     # tag: []
-    # description: ""        
+    # description: ""
+  임지훈:
+    name: 임지훈   
+    display_name: 안영훈
+    avatar: 'assets/images/builder-profile/임지훈.png'
+    email: heuristicwave@gmail.com
+    linkedIn: https://www.linkedin.com/in/heuristicwave/
+    github: https://github.com/heuristicwave
+    tag: [NLP, LLM, HuggingFace, LangChain]
+    description: "/ 8기 / 환경도! 나도! 지속 가능한 발전!"
+  정우준:
+    name: 정우준   
+    display_name: 정우준
+    avatar: 'assets/images/builder-profile/정우준.png'
+    email: jungnerd@gmail.com
+    # linkedIn: 
+    # github: 
+    tag: [CV, Vision, HuggingFace, NLp]
+    description: "/ 5-8기 / 매일 1cm씩 성장하는 것이 목표입니다!"
 
 
 
