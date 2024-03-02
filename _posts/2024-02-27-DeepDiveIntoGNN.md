@@ -4,7 +4,6 @@ title:  "Deep Dive Into GNN : Intro"
 author: 김진수
 categories: [ 8기 아카데미 ]
 image: assets/images/post/8th-builder/JinsuKim/graph_pseudo_lab.png
-published: false
 ---
 
 안녕하세요! 처음 뵙겠습니다 :) 저는 이번에 Deep Dive Into GNN 스터디를 맡은 8기 아카데미 빌더 김진수입니다.
