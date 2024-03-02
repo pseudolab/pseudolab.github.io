@@ -4,7 +4,6 @@ title:  "수학공부방 Season1 - Math for ML"
 author: 박진호
 categories: [ 8기 아카데미 ]
 image: assets/images/post/8th-builder/jinhopark/img1.jpg
-published: false
 ---
 
 안녕하세요, 저는 수학공부방 Season1 - Math for ML 스터디의 빌더 [박진호](www.linkedin.com/in/jinho-park-9010)입니다! 가짜연구소에서 빌더 활동을 시작하면서 생각했던 "다양한 주제에 관심을 가지고 공부해보자"라는 다짐을 지키기 위해서 오늘도 노력하고 있습니다:D  
