@@ -61,6 +61,15 @@ authors:
     github: https://github.com/jsshin2019
     tag: [크래프톤, Network Science, 이상탐지]
     description: "/ 8기 / SHOW ME THE DATA"
+  방태모:
+    name: 방태모
+    display_name: 방태모
+    avatar: 'assets/images/builder-profile/방태모.jpeg'
+    email: taemobang@gmail.com
+    linkedIn: https://www.linkedin.com/in/taemo/
+    github: https://github.com/be-favorite
+    tag: [G마켓, 온라인 통제 실험, 시계열 자료 분석, 통계학]
+    description: "/ 8기 / Keep going!"
   심석보:
     name: 심석보
     display_name: 심석보
