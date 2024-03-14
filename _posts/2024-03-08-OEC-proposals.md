@@ -4,7 +4,6 @@ title:  "온라인 통제 실험 연구자로 거듭나기 프로젝트를 통�
 author: 방태모
 categories: [ 8기 아카데미 ]
 image: assets/images/post/8th-builder/taemobang/DALLE_OCEs.png
-published: false
 ---
 
 안녕하세요, 저는 온라인 통제 실험 연구자로 거듭나기 프로젝트를 빌드한 [방태모](https://www.taemobang.com/)입니다. 이 글에서는 2024년 상반기 제가 진행할 온라인 통제 실험 연구자 프로젝트에 대해서 간단히 소개합니다.
