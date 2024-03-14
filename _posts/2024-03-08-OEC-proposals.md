@@ -3,7 +3,7 @@ layout: post
 title:  "온라인 통제 실험 연구자로 거듭나기 프로젝트를 통해서 가짜연구소와 함께 성장하기"
 author: 방태모
 categories: [ 8기 아카데미 ]
-image: assets/images/post/8th-builder/taemobang/DALLE_OCEs.png
+image: assets/images/post/8th-builder/taemobang/DALLE_OCEs.jpeg
 ---
 
 안녕하세요, 저는 온라인 통제 실험 연구자로 거듭나기 프로젝트를 빌드한 [방태모](https://www.taemobang.com/)입니다. 이 글에서는 2024년 상반기 제가 진행할 온라인 통제 실험 연구자 프로젝트에 대해서 간단히 소개합니다.
@@ -96,7 +96,7 @@ A/B Test의 바이블이라고 불리는 책과 그들의 논문, 아티클을 �
 
 ### 주차별 목표
 
-![img2](../assets/images/post/8th-builder/taemobang/study_plan.PNG)
+![img2](../assets/images/post/8th-builder/taemobang/study_plan.png)
 
 -   프로젝트 OT 후, 2주차에는 제가 온라인 통제 실험 기초 및 일부 통계적 방법론에 관한 전반적인 소개를 드리고자 합니다.
 
