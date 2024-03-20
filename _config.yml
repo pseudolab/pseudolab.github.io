@@ -205,7 +205,15 @@ authors:
     # github: 
     tag: [CV, Vision, HuggingFace, NLp]
     description: "/ 5-8기 / 매일 1cm씩 성장하는 것이 목표입니다!"
-
+  유재욱:
+    name: 유재욱
+    display_name: 유재욱
+    avatar: 'assets/images/builder-profile/유재욱.jpg'
+    email: ulty97@gmail.com 
+    linkedIn: https://www.linkedin.com/in/jaewook-kr/ 
+    github: https://github.com/potea
+    tag: [Product Engineer, Software Engineer]
+    description: "/ 7-8기 / 늘 새로운 것에 도전합니다."
 
 
     
