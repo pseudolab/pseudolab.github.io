@@ -214,7 +214,15 @@ authors:
     github: https://github.com/potea
     tag: [Product Engineer, Software Engineer]
     description: "/ 7-8기 / 늘 새로운 것에 도전합니다."
-
+  김성수:
+    name: 김성수
+    display_name: 김성수
+    avatar: 'assets/images/builder-profile/김성수.jpg'
+    email:  fenzhantw@gmail.com
+    linkedIn: https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/
+    github: https://github.com/fenzhantw
+    tag: [LG CNS, 인과추론, 머신러닝 시스템, Prognostics and Health Management]
+    description: "/ 3-8기 / Growth Mindset"
 
     
 # Plugins
