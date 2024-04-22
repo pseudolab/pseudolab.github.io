@@ -205,6 +205,15 @@ authors:
     # github: 
     tag: [CV, Vision, HuggingFace, NLp]
     description: "/ 5-8기 / 매일 1cm씩 성장하는 것이 목표입니다!"
+  김성수:
+    name: 김성수
+    display_name: 김성수
+    avatar: 'assets/images/builder-profile/김성수.jpg'
+    email:  fenzhantw@gmail.com
+    linkedIn: https://www.linkedin.com/in/%EC%84%B1%EC%88%98-%EA%B9%80-50825717b/
+    github: https://github.com/fenzhantw
+    tag: [LG CNS, 인과추론, 머신러닝 시스템, Prognostics and Health Management]
+    description: "/ 3-8기 / Growth Mindset"
 
 
 
