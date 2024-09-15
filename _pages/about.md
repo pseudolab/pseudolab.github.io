@@ -38,8 +38,8 @@ comments: False
 - **United Research**
 리서치는 특정한 문제에 대해서 연구개발하는 팀으로, 흥미로운 주제의 연구, 문제 해결, 프로토타입 개발, 논문 작성 등을 진행하는 프로그램입니다. 주제만으로도 가치를 갖는 연구를 진행하거나, 문제를 해결하거나 개발하는 것을 통해 이슈가 될만한 것을 다룰 수 있도록 많은 시간과 집중을 요합니다. 리서치팀 소개는 [해당 페이지](https://github.com/Pseudo-Lab/9th-builder/discussions/12)를 참고해주세요.
 - **Fundamental Fellowship**
-가짜연구소 Fellowship은 데이터과학 교육의 불균형 문제 해결에 기여하기 위해 시작된 프로그램입니다. 교육의 기회가 부족한 분들께 제공하고자 노력하기 위한 프로그램입니다. [DataCamp](https://www.datacamp.com/donates) 후원으로 라이센스를 지원을 받아, 팀원들과 함께 동일한 과정을 공부합니다. 
-![img](../assets/images/DC_Donates_logo_navy_bg.jpg)
+가짜연구소 Fellowship은 데이터과학 교육의 불균형 문제 해결에 기여하기 위해 시작된 프로그램입니다. 교육의 기회가 부족한 분들께 제공하고자 노력하기 위한 프로그램입니다. [DataCamp Donates](https://www.datacamp.com/donates)으로 라이센스를 지원을 받아, 팀원들과 함께 동일한 과정을 공부합니다. 
+![img](../assets/images/DC_Donates_logo_navy_bg.png)
 
 <br/>
 
